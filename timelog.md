@@ -24,16 +24,17 @@
 * *2 hours* Reading about smart grids and taking notes
 
 ### 20 Sept 2023
-*
+-
 
 ### 21 Sept 2023
-*
+* *2 hours* Project info session
 
 ### 22 Sept 2023
-*
+-
 
 ### 23 Sept 2023
-*
+* *1 hour* Read up on specific threats to smart grids
 
 ### 24 Sept 2023
-*
+* *2 hours* Set up project environment (incl. LaTeX and GitHub repository)
+* *2 hours* Researched ML techniques used for specific threat types
