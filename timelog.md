@@ -38,3 +38,14 @@
 ### 24 Sept 2023
 * *2 hours* Set up project environment (incl. LaTeX and GitHub repository)
 * *2 hours* Researched ML techniques used for specific threat types
+
+# Week 2
+
+### 25 Sept 2023
+- *1 hour* Reading
+- *0.5 hours* Supervisor meeting
+
+### 26 Sept 2023
+
+### 27 Sept 2023
+- *0.5 hours* Updated supervisor and logs/minutes
