@@ -49,3 +49,13 @@
 
 ### 27 Sept 2023
 - *0.5 hours* Updated supervisor and logs/minutes
+### 28 Sept 2023
+### 29 Sept 2023
+
+### 30 Sept 2023
+- *3 hours* Reading papers from Marco
+### 1 October 2023
+- *0.5 hours* weekly meeting
+### 2 October 2023
+- *1 hour* Contacting ScottishPower + looking for datasets
+
