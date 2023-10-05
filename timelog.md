@@ -55,7 +55,14 @@
 ### 30 Sept 2023
 - *3 hours* Reading papers from Marco
 ### 1 October 2023
-- *0.5 hours* weekly meeting
+
 ### 2 October 2023
+- *0.5 hours* weekly meeting
+### 3 October 2023
 - *1 hour* Contacting ScottishPower + looking for datasets
+- *1 hour* Reading papers
+### 4 October 2023
+- *0.5 hours* Looked for, found and emailed a second contact at ScottishPower
+### 5 October 2023
+- *3 hours* Summarising papers on shared doc
 
