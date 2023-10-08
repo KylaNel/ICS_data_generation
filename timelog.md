@@ -65,4 +65,10 @@
 - *0.5 hours* Looked for, found and emailed a second contact at ScottishPower
 ### 5 October 2023
 - *3 hours* Summarising papers on shared doc
+### 6 October 2023
+- *0.5 hours* Fixed local LaTeX distribution.
+- *2.5 hours* Summarising papers
+### 7 October 2023
+### 8 October 2023
+*3 hours* Summarising papers
 
