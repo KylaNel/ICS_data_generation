@@ -12,7 +12,7 @@
 * This timelog should be filled out honestly, regularly (daily) and accurately. It is for *your* benefit.
 * Follow the structure provided, grouping time by weeks.  Quantise time to the half hour.
 
-## Week 1
+# Week 1
 
 ### 18 Sept 2023
 
@@ -55,6 +55,7 @@
 ### 30 Sept 2023
 - *3 hours* Reading papers from Marco
 ### 1 October 2023
+# Week 3
 
 ### 2 October 2023
 - *0.5 hours* weekly meeting
@@ -72,3 +73,7 @@
 ### 8 October 2023
 *3 hours* Summarising papers
 
+# Week 4
+### 9 October 2023
+- *1 hour* Meeting 
+- *1 hour* Looking for smart grid network traffic datasets
