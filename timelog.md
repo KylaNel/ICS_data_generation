@@ -77,3 +77,23 @@
 ### 9 October 2023
 - *1 hour* Meeting 
 - *1 hour* Looking for smart grid network traffic datasets
+
+### 10 October 2023
+
+### 11 October 2023
+
+### 12 October 2023
+- *1.5 hours* Meeting + lab tour
+### 13 October 2023
+
+### 14 October 2023
+- *5 hours* Reading
+### 15 October 2023
+
+# Week 5
+
+### 16 October 2023
+- *0.5 hours* Meeting
+
+
+
