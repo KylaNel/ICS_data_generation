@@ -94,6 +94,11 @@
 
 ### 16 October 2023
 - *0.5 hours* Meeting
+### 17 October 2023
+- *2 hours* Brainstorming ideas for Raspberry pi setup
+### 18 October 2023
+### 19 October 2023
+- *2.5 hours* Looking for open problems in FL ICS anomaly detection
 
 
 
