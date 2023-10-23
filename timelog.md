@@ -99,6 +99,14 @@
 ### 18 October 2023
 ### 19 October 2023
 - *2.5 hours* Looking for open problems in FL ICS anomaly detection
-
+### 20 October 2023
+- *2.5 hours* Brainstorming 2-step classification approach
+### 21 October 2023
+### 22 October 2023
+- *5 hours* Defining new plan and looking up similar research
+# Week 6
+### 23 October 2023
+- *0.5 hours* Meeting
+- *1 hour* Reading
 
 
